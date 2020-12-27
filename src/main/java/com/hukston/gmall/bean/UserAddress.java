@@ -8,7 +8,7 @@ private String userAddress;//用户地址
 private String userId;//用户id
 private String consignee;//收货人
 private String phoneNum;//电话号码
-private String isDefault;//是否默认随便改一下11
+private String isDefault;//是否默认随便改一下111
 
 public UserAddress() {
 	super();
